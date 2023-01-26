@@ -6,9 +6,11 @@ string numberTwoStr = Console.ReadLine();
 int numberTwo = Convert.ToInt32(numberTwoStr);
 if(numberOne > numberTwo)
 {
-    Console.Write("max = " );
+    Console.Write("max = ");
     Console.WriteLine(numberOne);
 }
-else 
-Console.Write("max = ");
-Console.WriteLine(numberTwo);
+else
+{
+    Console.Write("max = ");
+    Console.WriteLine(numberTwo);
+}
