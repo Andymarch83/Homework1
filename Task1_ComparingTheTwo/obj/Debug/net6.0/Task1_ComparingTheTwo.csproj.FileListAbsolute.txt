@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Домашки\Знакомство с языками программирования (семинары)\Homework1\Task1_ComparingTheTwo\obj\Debug\net6.0\Task1_ComparingTheTwo.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Домашки\Знакомство с языками программирования (семинары)\Homework1\Task1_ComparingTheTwo\obj\Debug\net6.0\Task1_ComparingTheTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Домашки\Знакомство с языками программирования (семинары)\Homework1\Task1_ComparingTheTwo\obj\Debug\net6.0\Task1_ComparingTheTwo.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Домашки\Знакомство с языками программирования (семинары)\Homework1\Task1_ComparingTheTwo\obj\Debug\net6.0\Task1_ComparingTheTwo.AssemblyInfo.cs
+C:\Users\User\Desktop\Домашки\Знакомство с языками программирования (семинары)\Homework1\Task1_ComparingTheTwo\obj\Debug\net6.0\Task1_ComparingTheTwo.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Домашки\Знакомство с языками программирования (семинары)\Homework1\Task1_ComparingTheTwo\bin\Debug\net6.0\Task1_ComparingTheTwo.exe
+C:\Users\User\Desktop\Домашки\Знакомство с языками программирования (семинары)\Homework1\Task1_ComparingTheTwo\bin\Debug\net6.0\Task1_ComparingTheTwo.deps.json
+C:\Users\User\Desktop\Домашки\Знакомство с языками программирования (семинары)\Homework1\Task1_ComparingTheTwo\bin\Debug\net6.0\Task1_ComparingTheTwo.runtimeconfig.json
+C:\Users\User\Desktop\Домашки\Знакомство с языками программирования (семинары)\Homework1\Task1_ComparingTheTwo\bin\Debug\net6.0\Task1_ComparingTheTwo.dll
+C:\Users\User\Desktop\Домашки\Знакомство с языками программирования (семинары)\Homework1\Task1_ComparingTheTwo\bin\Debug\net6.0\Task1_ComparingTheTwo.pdb
+C:\Users\User\Desktop\Домашки\Знакомство с языками программирования (семинары)\Homework1\Task1_ComparingTheTwo\obj\Debug\net6.0\Task1_ComparingTheTwo.dll
+C:\Users\User\Desktop\Домашки\Знакомство с языками программирования (семинары)\Homework1\Task1_ComparingTheTwo\obj\Debug\net6.0\refint\Task1_ComparingTheTwo.dll
+C:\Users\User\Desktop\Домашки\Знакомство с языками программирования (семинары)\Homework1\Task1_ComparingTheTwo\obj\Debug\net6.0\Task1_ComparingTheTwo.pdb
+C:\Users\User\Desktop\Домашки\Знакомство с языками программирования (семинары)\Homework1\Task1_ComparingTheTwo\obj\Debug\net6.0\Task1_ComparingTheTwo.genruntimeconfig.cache
+C:\Users\User\Desktop\Домашки\Знакомство с языками программирования (семинары)\Homework1\Task1_ComparingTheTwo\obj\Debug\net6.0\ref\Task1_ComparingTheTwo.dll
